@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/StartingScenes/SpidersMenu.unity
+    guid: 77e4b664c55be42e3a55775b2615a141
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Start.unity
+    guid: 9cf77ad0ee03946aa9596f7385b056e6
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/StartingScenes/HowToPlay.unity
+    guid: 668f48d2caff144268375f59847362d1
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/StartingScenes/AboutAuthors.unity
+    guid: f33f5be42512b4b06a3387dc6d88e308
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Start-Wait.unity
+    guid: 0d7d0e8c132ac41d8a8cb70aea3122c2
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Bs-Wait.unity
+    guid: 8477a91197b2144519b72bd63ce14db8
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Chest-Key-Oculus.unity
+    guid: 459d5541fc09a48c49182049e969877e
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Fs-2-Options.unity
+    guid: 6b4a085138dda430aaf29eccf642ed88
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Fs-Wait.unity
+    guid: fa2b0a71dbdda494bbdef2ef7410361b
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Hall.unity
+    guid: 6b6486e136eae4a0a87bd2f81d300a91
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Hall.unity
+    guid: fcf8f3126c04c4b02b94e66cb58242d6
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Start-Cupboard.unity
+    guid: 6758661372ebf4852b8cbd394aa7910a
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Close.unity
+    guid: 7d444514420f84930a9586aef4206a63
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Oculus.unity
+    guid: eb3770459444743efbebf1d838c4507d
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Fs-1-Option.unity
+    guid: 566bdc16d924544c1b23b6b3da7f062b
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Start-Wardrobe.unity
+    guid: 70fae056d52da4c6f95610de5ac46ee2
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Start-Hall.unity
+    guid: c164b23919b9046c78b90396150980a0
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Bs-Wait.unity
+    guid: 0f844759702e54bf182287f6fa44023a
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Search.unity
+    guid: c925c3ea7a95248f694e607d417269e3
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Chest-No-Key.unity
+    guid: fc4e44acb7ec84bb4b950df95066f326
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Wardrobe.unity
+    guid: d78645ece7b8c4726ac6177e6416c5ad
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Cupboard-Turn-Back.unity
+    guid: e4ee7c3f235254c16956efd2b3dd2206
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Wardrobe-Cupboard.unity
+    guid: e9f12aaff9ff54d22ae07f26575359ab
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 613813c4a8cb58e488ccfdaa38f11934
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Light.unity
+    guid: 816d5858e2e4a4101910530f0f38c781
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Hall-Kitchen.unity
+    guid: a92357b96baed48b5afb354cccf89bf4
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Hall-Salon.unity
+    guid: 7742ceaa60d81452bb5fa214cb467956
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Kitchen-Bedroom.unity
+    guid: 4a1b2ffa1d2204c68a8e1833a9683c7b
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Kitchen-Wait.unity
+    guid: bb1a107c04e994989839db263537ba95
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Kitchen-Hall.unity
+    guid: 8d4ad94dcb8b74f238cc98c52145f265
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Night/Night-Hall-Wait.unity
+    guid: d21dcc0eaf0b640bd990a9b486d00f59
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Basement.unity
+    guid: dc3a0242fc7c24cbaad2d9e97ebc98f5
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Wait.unity
+    guid: a36449b386fff403289026f7f162d5b6
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-No-Flashlight.unity
+    guid: 4cd5239563fc64807bef9eb5d780b318
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Take-Flashlight.unity
+    guid: 26aec8f77ab094c1593dbc0949237b93
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Hall.unity
+    guid: a5da0c18f26a04f199b302118ef344fd
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Door-Closed.unity
+    guid: d3058b9b17a6b456697c56dfd1896967
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Door-Key.unity
+    guid: 9307c1db3374a4735a67500971bc2e37
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Kitchen/Kitchen-Bedroom.unity
+    guid: 4b6afccc15a6146a393c4f16970852ed
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Wait-L-A.unity
+    guid: dac425d1dd6d54081b244c1337581b75
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Wait-A.unity
+    guid: bd4b8592b6bce491ab99b5b5f2433749
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Wait-L.unity
+    guid: d4471544a1cd3402680b9fed1e27b553
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Light.unity
+    guid: 772c6f087b37845c2a5f228edbe8803c
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Salon.unity
+    guid: 1f83f8a97a65a4b71b9bb7440698c20c
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Attic.unity
+    guid: d141040ac2f56440f87a82a5518d71ef
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Wait.unity
+    guid: 97b890bab60824713a50d0207bd14ad2
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Hall/Hall-Kitchen.unity
+    guid: 8d07019cf68604030adeaaa09c6e2879
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Bedroom/Bedroom-Wait-1-Option.unity
+    guid: 9eb48e480e8ef4f2badc6afcd6da82a4
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Bedroom/Bed-Out.unity
+    guid: 71a9cdeb1824148039278d9934df5247
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Bedroom/Bed-Gun.unity
+    guid: 2b71130c44ad54279926fcc44aec5487
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Bedroom/Bedroom-Wait-2-Options.unity
+    guid: afcf6b1e8c882432487411a2a136693e
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Basement/Chest-Glove.unity
+    guid: aa6d6a41f32d34e89a70e022e9980f83
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Basement/Basement-Wait-2-Options.unity
+    guid: d0912913bf22448af8cfc39034dcd7a3
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Basement/Chest-No-Glove.unity
+    guid: 648215733224a4f41b1d705fbad77e3a
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Basement/Basement-Kitchen.unity
+    guid: a5f8c07d945cf40ab9702b315e256a12
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Basement/Basement-Wait-1-Option.unity
+    guid: 1d86280e5be714702a051a3ab8fc7f42
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Final/Looser.unity
+    guid: 3a25035189945439091162b32e8c7e2a
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Final/Winner.unity
+    guid: a38403de88fa547c9a27a8f6f7e1ee06
+  - enabled: 1
+    path: Assets/Interactive360/Scenes/VideoScenes/Salon/Oculus-Cupboard.unity
+    guid: fd7e089fe87fb4900aac7c827f60cf66
+  - enabled: 1
+    path: Assets/Scenes/Without_gun.unity
+    guid: 497a81c1d5fd64c9182803f49ad2bdb4
+  m_configObjects: {}
