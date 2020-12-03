@@ -86,3 +86,7 @@ Corridor/Library/metadata/
 
 #Movies#
 /[Aa]ssets/Interactive360/Videos
+
+#Folders that are not Assets nor ProjectSettings
+.idea
+UIElementsSchema
