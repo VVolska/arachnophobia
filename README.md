@@ -2,7 +2,7 @@
 Unity project composed of an interactive 180° film and a Virtual Reality game
 
 ## Instalation
-the ready to use .apk folder can be downloaded from here --> 
+Ready to use .apk folder can be downloaded from here --> 
 
 If you want to open the project in Unity Hub please keep in mind that it was created using Unity 2018.4.26f1 and can be not supported by the newer versions of Unity. Please follow theese steps:
 
@@ -13,6 +13,9 @@ If you want to open the project in Unity Hub please keep in mind that it was cre
 4. Open project via Unity Hub
 
 It can take a while to download all of the dependencies so just be patient ;)
+
+## Opening the project
+To run a project in play mode inside Unity you need to open a Scene called SpidersMenu. It can be found in ```arachophobia-master/Assets/Interactive360/Scenes/StartingScenes```
 
 ## Demo
 Movies containing demo of the game can be found here -->
