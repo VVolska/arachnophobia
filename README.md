@@ -1,8 +1,8 @@
 # Arachnophobia
-Unity project composed of an interactive 180° film and a Virtual Reality game
+Unity project composed of an interactive 180° film and a Virtual Reality game made for Oculus Quest
 
 ## Instalation
-Ready to use .apk folder can be downloaded from here --> 
+Ready to use .apk can be downloaded from here --> https://drive.google.com/file/d/1AZRHPvIcOWaqieLEQ2zwPu5jiI5EltOh/view?usp=sharing
 
 If you want to open the project in Unity Hub please keep in mind that it was created using Unity 2018.4.26f1 and can be not supported by the newer versions of Unity. Please follow theese steps:
 
